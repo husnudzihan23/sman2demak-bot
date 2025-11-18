@@ -75,7 +75,7 @@ def cari_jadwal(pesan):
         return wali_bk_jawaban
 
     # 🔹 Cek sapaan
-    sapaan = ["halo", "hai", "assalamualaikum", "hallo", "pagi", "siang", "sore", "malam"]
+    sapaan = ["Halo", "Hai", "Assalamualaikum", "Hallo", "Selamat Pagi", "Selamat Siang", "Selamat Sore", "Malam"]
     for s in sapaan:
         if s in pesan:
             return (
@@ -202,3 +202,4 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+

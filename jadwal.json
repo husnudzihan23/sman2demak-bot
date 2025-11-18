@@ -1,0 +1,237 @@
+[
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Senin",
+    "mulai": "07:00",
+    "selesai": "09:15",
+    "kelas": "XII-12",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Senin",
+    "mulai": "11:00",
+    "selesai": "14:00",
+    "kelas": "XII-11",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Senin",
+    "mulai": "14:00",
+    "selesai": "15:30",
+    "kelas": "XII-9",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Selasa",
+    "mulai": "07:00",
+    "selesai": "09:15",
+    "kelas": "XII-10",
+    "mapel": "Geografi"
+  },
+  
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Selasa",
+    "mulai": "10:15",
+    "selesai": "13:15",
+    "kelas": "XII-9",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Selasa",
+    "mulai": "13:15",
+    "selesai": "15:30",
+    "kelas": "XII-7",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Rabu",
+    "mulai": "09:30",
+    "selesai": "11:45",
+    "kelas": "XII-8",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Rabu",
+    "mulai": "14:00",
+    "selesai": "15:30",
+    "kelas": "XII-10",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Kamis",
+    "mulai": "07:00",
+    "selesai": "08:20",
+    "kelas": "XII-12",
+    "mapel": "Geografi"
+  },  
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Kamis",
+    "mulai": "09:20",
+    "selesai": "10:40",
+    "kelas": "XII-11",
+    "mapel": "Geografi"
+  },  
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Kamis",
+    "mulai": "10:40",
+    "selesai": "12:00",
+    "kelas": "XII-7",
+    "mapel": "Geografi"
+  },  
+
+{
+    "guru": "Drs. Ahmad Munif, M.Pd.",
+    "hari": "Jumat",
+    "mulai": "10:00",
+    "selesai": "11:20",
+    "kelas": "XII-8",
+    "mapel": "Geografi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Senin",
+    "mulai": "07:00",
+    "selesai": "09:15",
+    "kelas": "XII-1",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Senin",
+    "mulai": "13:15",
+    "selesai": "15:30",
+    "kelas": "XII-2",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Selasa",
+    "mulai": "07:00",
+    "selesai": "09:15",
+    "kelas": "XII-4",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Selasa",
+    "mulai": "09:30",
+    "selesai": "11:45",
+    "kelas": "XII-5",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Selasa",
+    "mulai": "13:15",
+    "selesai": "15:30",
+    "kelas": "X-1",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Rabu",
+    "mulai": "11:00",
+    "selesai": "14:00",
+    "kelas": "XII-3",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Rabu",
+    "mulai": "14:00",
+    "selesai": "15:30",
+    "kelas": "XII-1",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Kamis",
+    "mulai": "07:00",
+    "selesai": "08:20",
+    "kelas": "XII-2",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Kamis",
+    "mulai": "08:20",
+    "selesai": "10:00",
+    "kelas": "XII-4",
+    "mapel": "Biologi"
+  },  
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Kamis",
+    "mulai": "10:40",
+    "selesai": "12:00",
+    "kelas": "XII-5",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Kamis",
+    "mulai": "14:10",
+    "selesai": "15:30",
+    "kelas": "XII-3",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Muslikah, S.Pd.,M.Pd.",
+    "hari": "Kamis",
+    "mulai": "07:00",
+    "selesai": "08:20",
+    "kelas": "XII-2",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Jumiatun, S.Pd.",
+    "hari": "Senin",
+    "mulai": "08:30",
+    "selesai": "10:15",
+    "kelas": "XI-2",
+    "mapel": "Biologi"
+  },
+
+{
+    "guru": "Jumiatun, S.Pd.",
+    "hari": "Senin",
+    "mulai": "11:00",
+    "selesai": "13:15",
+    "kelas": "XI-6",
+    "mapel": "Biologi"
+  }
+  
+
+]
